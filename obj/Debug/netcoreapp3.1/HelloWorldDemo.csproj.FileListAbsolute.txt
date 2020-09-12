@@ -1,0 +1,13 @@
+C:\Users\CONSUMER\OneDrive\Documents\SmithSawyerRepo\SmithSawyer\HelloWorldDemo\bin\Debug\netcoreapp3.1\HelloWorldDemo.exe
+C:\Users\CONSUMER\OneDrive\Documents\SmithSawyerRepo\SmithSawyer\HelloWorldDemo\bin\Debug\netcoreapp3.1\HelloWorldDemo.deps.json
+C:\Users\CONSUMER\OneDrive\Documents\SmithSawyerRepo\SmithSawyer\HelloWorldDemo\bin\Debug\netcoreapp3.1\HelloWorldDemo.runtimeconfig.json
+C:\Users\CONSUMER\OneDrive\Documents\SmithSawyerRepo\SmithSawyer\HelloWorldDemo\bin\Debug\netcoreapp3.1\HelloWorldDemo.runtimeconfig.dev.json
+C:\Users\CONSUMER\OneDrive\Documents\SmithSawyerRepo\SmithSawyer\HelloWorldDemo\bin\Debug\netcoreapp3.1\HelloWorldDemo.dll
+C:\Users\CONSUMER\OneDrive\Documents\SmithSawyerRepo\SmithSawyer\HelloWorldDemo\bin\Debug\netcoreapp3.1\HelloWorldDemo.pdb
+C:\Users\CONSUMER\OneDrive\Documents\SmithSawyerRepo\SmithSawyer\HelloWorldDemo\obj\Debug\netcoreapp3.1\HelloWorldDemo.csprojAssemblyReference.cache
+C:\Users\CONSUMER\OneDrive\Documents\SmithSawyerRepo\SmithSawyer\HelloWorldDemo\obj\Debug\netcoreapp3.1\HelloWorldDemo.AssemblyInfoInputs.cache
+C:\Users\CONSUMER\OneDrive\Documents\SmithSawyerRepo\SmithSawyer\HelloWorldDemo\obj\Debug\netcoreapp3.1\HelloWorldDemo.AssemblyInfo.cs
+C:\Users\CONSUMER\OneDrive\Documents\SmithSawyerRepo\SmithSawyer\HelloWorldDemo\obj\Debug\netcoreapp3.1\HelloWorldDemo.csproj.CoreCompileInputs.cache
+C:\Users\CONSUMER\OneDrive\Documents\SmithSawyerRepo\SmithSawyer\HelloWorldDemo\obj\Debug\netcoreapp3.1\HelloWorldDemo.dll
+C:\Users\CONSUMER\OneDrive\Documents\SmithSawyerRepo\SmithSawyer\HelloWorldDemo\obj\Debug\netcoreapp3.1\HelloWorldDemo.pdb
+C:\Users\CONSUMER\OneDrive\Documents\SmithSawyerRepo\SmithSawyer\HelloWorldDemo\obj\Debug\netcoreapp3.1\HelloWorldDemo.genruntimeconfig.cache
